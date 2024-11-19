@@ -20,6 +20,8 @@ This project is purely analytical and does not advocate for or against any polic
 - Statistical analysis to evaluate economic contributions and costs.  
 - Visualization of trends in billionaire demographics and their economic impact.  
 
+## Key Computed Variables and Statistics
+- avg_wage: the average hourly salary of employees compiled over top five held companies.
 ## Structure  
 - **`data/`**: Contains raw and processed data files.  
 - **`notebooks/`**: Jupyter or R Markdown notebooks for analysis.  
