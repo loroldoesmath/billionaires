@@ -1,4 +1,4 @@
-# Billionaires: An Apolitical Analysis  
+# On the Existence of Billionaires: An Apolitical Analysis  
 
 This project explores the existence of billionaires through an apolitical lens, focusing on the balance between the economic costs and benefits of consolidated wealth. The primary motivating question is:  
 
