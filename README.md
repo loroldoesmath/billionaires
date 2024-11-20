@@ -13,8 +13,8 @@ This project explores the existence of billionaires through an apolitical lens, 
 This project is purely analytical and does not advocate for or against any policies, ideologies, or systems. The goal is to present objective findings based on data and evidence.  
 
 ## Data Sources  
-- [Forbes Billionaires Evolution](https://www.kaggle.com/datasets/guillemservera/forbes-billionaires-1997-2023?select=billionaires_2024.csv)
-
+- Original Data Source: [Forbes Billionaires Evolution](https://www.kaggle.com/datasets/guillemservera/forbes-billionaires-1997-2023?select=billionaires_2024.csv)
+- I added data to create billionaires_master. For a complete list of sources utilized to fill out missing data, see sources.txt.
 ## Methods  
 - Data collection and cleaning using Python
 - Statistical analysis to evaluate economic contributions and costs.  
