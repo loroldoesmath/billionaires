@@ -2,7 +2,7 @@
 
 This project explores the existence of billionaires through an apolitical lens, focusing on the balance between the economic costs and benefits of consolidated wealth. The primary motivating question is:  
 
-**Does the cost of consolidated wealth outweigh the economic benefit provided by billionaires?**
+**Does the cost of consolidated wealth outweigh any economic benefit?**
 
 ## Objectives  
 - Analyze the positive economic impact of billionaires, including job creation, innovation, and philanthropy.  
