@@ -22,12 +22,6 @@ This project is purely analytical and does not advocate for or against any polic
 
 ## Key Computed Variables and Statistics
 - avg_wage: the average hourly salary of employees compiled over top five held companies.
-## Structure  
-- **`data/`**: Contains raw and processed data files.  
-- **`notebooks/`**: Jupyter or R Markdown notebooks for analysis.  
-- **`src/`**: Source code for data processing and analysis.  
-- **`visualizations/`**: Charts, graphs, and other outputs for presentation.  
-- **`docs/`**: Documentation and references.  
 
 ## Questions to Explore  
 1. What is the economic cost of billionaires for the average citizen, and how does it compare to their economic contributions?  
