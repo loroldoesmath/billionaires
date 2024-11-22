@@ -28,7 +28,8 @@ This project is purely analytical and does not advocate for or against any polic
 2. How do billionaires influence job creation and innovation?  
 3. What role do billionaires play in philanthropy and societal support?  
 4. How has the number and wealth of billionaires evolved over time?  
-5. Why do some industries produce more billionaires than others?  
+5. Why do some industries produce more billionaires than others?
+6. How have corporate profit margins changed over time? 
 
 ## Tools and Technologies  
 - Programming languages: Python
