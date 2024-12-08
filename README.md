@@ -44,4 +44,4 @@ Contributions to this project are welcome! If you'd like to contribute, please:
 5. Open a pull request.  
 
 ## Disclaimer  
-This project is for research and educational purposes only.  
+This project is for research and educational purposes only. Any findings or opinions are my own and do not reflect that of my employer.
